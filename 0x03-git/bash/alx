@@ -1,7 +1,2 @@
-cat > school #!/bin/bash
-ls
-
-clear
-
-
-l)))
+#!/bin/bash
+ALX School is so cool
